@@ -6,7 +6,6 @@ public class TestClass {
 		System.out.println("Siin on väljaprint");
 		System.out.println("Siin on teine väljaprint");
 		System.out.println("githubist tehtud update");
-
 	}
 
 }
